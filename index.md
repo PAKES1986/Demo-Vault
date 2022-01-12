@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages 
 
-Link [Demo](https://github.com/PAKES1986/Demo-Vault/edit/main/Files/Demo-1.md)
+Link [Demo](https://github.com/PAKES1986/Demo-Vault/main/Files/Demo-1.md)
 
 You can use the [editor on GitHub](https://github.com/PAKES1986/Demo-Vault/edit/main/Demo1.md) to maintain and preview the content for your website in Markdown files.
 
