@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages 
 
-Link [[Demo 1.md]]
+Link [Demo](https://github.com/PAKES1986/Demo-Vault/edit/main/Demo1.md)
 
-You can use the [editor on GitHub](https://github.com/PAKES1986/Demo-Vault/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/PAKES1986/Demo-Vault/edit/main/Demo1.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
